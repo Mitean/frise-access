@@ -160,5 +160,4 @@ window.jalons =  [
     visible: 0
   }
 ];
-
-window.dbVersion = ["1.0.1"]; // version actuelle de la base
+window.dbVersion = ["1.0.1"];
