@@ -1,4 +1,4 @@
-window.dbVersion = ["1.0.1"];
+window.dbVersion = "1.0.1";
 window.jalons =  [
   {
     id: 1,
