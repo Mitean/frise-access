@@ -161,4 +161,4 @@ window.jalons =  [
   }
 ];
 
-window.dbVersion = "1.0.1"; // version actuelle de la base
+window.dbVersion = ["1.0.1"]; // version actuelle de la base
