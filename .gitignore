@@ -1,0 +1,35 @@
+# ======================================================
+# 🛡️ Sécurité : fichiers contenant des informations sensibles
+# ======================================================
+
+# Contient le hash du mot de passe admin
+config.js
+
+# Contient le token GitHub personnel (jamais à publier)
+token.js
+
+
+# ======================================================
+# ⚙️ Environnement / fichiers temporaires
+# ======================================================
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Node / dépendances éventuelles
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers temporaires de l'éditeur
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Sauvegardes automatiques ou fichiers générés
+*~
+*.old
